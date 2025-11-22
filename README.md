@@ -10,21 +10,10 @@ Python: Data cleaning (Pandas), merging, and statistical visualization (Seaborn/
 
 Microsoft Power BI: Interactive dashboarding for exploratory analysis.
 
-React.js / HTML: Custom web-based dashboard for presenting findings.
+Google Colab (Jupyter): Cloud-based environment for executing data pipelines.
 
 Excel/CSV: Raw data storage and processing.
 
-📂 File Structure
-
-data_cleaning_and_merging_script.py: The ETL script that cleans raw NCES/USDA data and merges it using FIPS codes.
-
-generate_chapter_4_charts.py: Python script that generates the 5 key visualizations used in the final report.
-
-Processed_Capstone_Data.csv: The final cleaned dataset used for analysis.
-
-CapstoneDashboard.html: A standalone HTML dashboard visualizing the results.
-
-Final_Report.pdf: The complete academic report (Chapters 1-5).
 
 📊 Key Findings
 
@@ -36,7 +25,7 @@ The Combined Model: A model combining both SES and Institutional factors explain
 
 🔧 How to Run the Analysis
 
-Download the Raw_ data files and placed them in a local directory.
+Upload the Raw_ data files to your Google Colab session or local directory.
 
 Run data_cleaning_and_merging_script.py to generate the processed CSV.
 
